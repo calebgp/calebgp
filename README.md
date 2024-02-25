@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Caleb Pinto</h1>
 <h3 align="center">A passionate Mobile Developer from Portugal</h3>
-
+<div align="center">
+ <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=calebgp&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+</div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=calebgp" alt="calebgp" /></a> </p>
 
 - 🌱 I’m currently learning **React**
