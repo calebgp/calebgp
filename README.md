@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Fullstack Developer</h3>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.NET MAUI**
 
 - 📫 How to reach me **calebgp.dev@gmail.com**
 
