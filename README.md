@@ -1,32 +1,121 @@
-<h1 align="center">Hi 👋, I'm Caleb Pinto</h1>
-<h3 align="center">A passionate Mobile Fullstack Developer</h3>
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║        ██████╗ ██████╗  ██████╗     ██████╗ ███████╗██╗      ║
+║       ██╔══██╗██╔══██╗██╔═══██╗    ██╔══██╗██╔════╝██║      ║
+║       ██████╔╝██████╔╝██║   ██║    ██║  ██║█████╗  ██║      ║
+║       ██╔═══╝ ██╔══██╗██║   ██║    ██║  ██║██╔══╝  ╚═╝      ║
+║       ██║     ██║  ██║╚██████╔╝    ██████╔╝███████╗██╗      ║
+║       ╚═╝     ╚═╝  ╚═╝ ╚═════╝     ╚═════╝ ╚══════╝╚═╝      ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-- 🌱 I’m currently learning **.NET MAUI**
+# Hey, I'm Caleb Pinto 👋
 
-- 📫 How to reach me **calebgp.dev@gmail.com**
+### Mobile Fullstack Developer · Flutter Enthusiast · Cloud Builder
 
--  Check my portfolio: http://gitconnected-portifolio-case.web.app/
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+%26+Fullstack+Developer;Flutter+%7C+Dart+%7C+Go+%7C+Python;Firebase+%7C+AWS+%7C+GCP;Building+seamless+cross-platform+experiences)](https://git.io/typing-svg)
 
--  Check my resume: https://gitconnected.com/calebgp/resume
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/calebgpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="calebgpdev" height="30" width="40" /></a>
-<a href="https://instagram.com/calebgpdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="calebgpdev" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
+I'm a **Mobile Fullstack Developer** based in Brazil, passionate about crafting seamless cross-platform experiences. I love bridging the gap between elegant mobile interfaces and robust backend systems — from Flutter apps all the way to cloud infrastructure.
+
+- 🔭 Currently building production-grade **Flutter** applications with **Go** backends
+- 🌱 Exploring **GraphQL**, **Docker** orchestration, and serverless architectures
+- 💡 Interested in clean architecture, performance optimization, and developer experience
+- 📫 Reach me at **calebgp.dev@gmail.com**
+- 🌐 Portfolio: [calebgp.dev](http://gitconnected-portifolio-case.web.app/)
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚙️ Backend & Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+
+### 🔧 Hardware & Prototyping
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="display: inline;" src="https://github-profile-trophy.vercel.app/?username=calebgp" alt="calebgp" /></a> 
- 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=calebgp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebgp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
 </div>
-<div align="center"> 
- <img style="display: inline;"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=calebgp&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=calebgp&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=calebgp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Coding Activity
+
+<div align="center">
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=calebgp&badges=3&show-avatar=false&style=--header-bg-color:%231a1b27;--border-radius:10px" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-calebgpdev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/calebgpdev)
+[![Instagram](https://img.shields.io/badge/Instagram-calebgpdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/calebgpdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=firefox&logoColor=white)](http://gitconnected-portifolio-case.web.app/)
+[![Resume](https://img.shields.io/badge/Resume-View%20Online-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://gitconnected.com/calebgp/resume)
+[![Email](https://img.shields.io/badge/Email-calebgp.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calebgp.dev@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=calebgp&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"Code is not just instructions for machines — it's communication between humans."*
 
 </div>
