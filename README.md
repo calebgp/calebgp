@@ -3,7 +3,7 @@
 
 # Hey, I'm Caleb Pinto 👋
 
-### Mobile Fullstack Developer · Flutter Enthusiast · Cloud Builder
+### Mobile Fullstack Developer · Flutter · Cloud Builder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+%26+Fullstack+Developer;Flutter+%7C+Dart+%7C+Go+%7C+Python;Firebase+%7C+AWS+%7C+GCP;Building+seamless+cross-platform+experiences)](https://git.io/typing-svg)
 
